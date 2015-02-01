@@ -1,1 +1,6 @@
 /* CSS declarations go here */
+header{
+    position: fixed;
+    right: 10%;
+    top: 0;
+}
