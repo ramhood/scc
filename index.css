@@ -55,3 +55,15 @@ header label{
     bottom: 0px;
     left: 7%;
 }
+#about{
+    position: fixed;
+    width: 20%;
+    bottom: 0px;
+    left: 40%;
+}
+#contacts{
+    position: fixed;
+    width: 13%;
+    top: 0px;
+    left: 55%;
+}
