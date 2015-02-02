@@ -5,19 +5,19 @@ body{
 
 header{
     position: fixed;
-    right: 10%;
+    right: 17%;
     top: 0;
-    width: 11%;
+    width: 9%;
 }
 header img{
     position: relative;
-    top: -25px;
+
     width: 100%;
 }
 header label{
     position: relative;
-    top: -95px;
-    left: -90px;
+    top: -70px;
+    left: 50px;
 }
 #scc{
     position: fixed;
@@ -28,4 +28,13 @@ header label{
 #scc img{
     width: 100%;
     margin-top: -20%;
+}
+#news{
+    position: fixed;
+    width: 30%;
+    left: 6%;
+    top: -12%;
+}
+.icon img{
+    width: 100%;
 }
