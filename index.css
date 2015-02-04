@@ -20,42 +20,11 @@ header label{
     top: 45%;
     left: 40%;
 }
-#scc{
-    position: fixed;
-    left: 50%;
-    top: 50%;
-    width: 0;
-}
 
-#news{
+section{
     position: fixed;
-    left: 50%;
-    top: 50%;
     width: 0;
-}
-
-#programs{
-    position: fixed;
-    left: 50%;
+    height: 0;
     top: 50%;
-    width: 0;
-}
-
-#residency{
-    position: fixed;
     left: 50%;
-    top: 50%;
-    width: 0;
-}
-#about{
-    position: fixed;
-    left: 50%;
-    top: 50%;
-    width: 0;
-}
-#contacts{
-    position: fixed;
-    left: 50%;
-    top: 50%;
-    width: 0;
 }
