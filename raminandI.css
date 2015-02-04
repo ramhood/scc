@@ -1,0 +1,63 @@
+#scc img{
+    position: absolute;
+    width: 600px;
+    left: -650px;
+    top: -120px;
+}
+#news .icon{
+    position: absolute;
+    width: 600px;
+    left: -600px;
+    top: -420px;
+}
+#news .icon img{
+    width: 400px;
+}
+#publishing .icon{
+    position: absolute;
+    top: -410px;
+    left: -370px;
+}
+#publishing .icon img{
+    width: 430px;
+}
+#residency .icon{
+    position: absolute;
+    left: -600px;
+    top: 20px;
+}
+#residency .icon img{
+    width: 400px;
+}
+#events .icon{
+    position: absolute;
+    left: -170px;
+    top: -70px;
+}
+#events .icon img{
+    width: 290px;
+}
+#about .icon{
+    position: absolute;
+    left: -230px;
+    top: 120px;
+}
+#about .icon img{
+    width: 320px;
+}
+#programs .icon{
+    position: absolute;
+    top: -290px;
+    left: 0px;
+}
+#programs .icon img{
+    width: 650px;
+}
+#contacts .icon{
+    position: absolute;
+    top: -330px;
+    left: 0px;
+}
+#contacts .icon img{
+    width: 170px;
+}

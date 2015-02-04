@@ -1,12 +1,15 @@
 /* CSS declarations go here */
 body{
-    background-image: url('img/background.jpg');
-
+    background: url('img/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 header{
     position: fixed;
-    right: 17%;
+    right: 18%;
     top: 0;
     width: 7%;
 }
