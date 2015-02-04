@@ -1,0 +1,30 @@
+/* CSS declarations go here */
+body{
+    background-image: url('img/background.jpg');
+
+}
+
+header{
+    position: fixed;
+    right: 17%;
+    top: 0;
+    width: 7%;
+}
+header img{
+    position: relative;
+
+    width: 100%;
+}
+header label{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+}
+
+section{
+    position: fixed;
+    width: 0;
+    height: 0;
+    top: 50%;
+    left: 50%;
+}
