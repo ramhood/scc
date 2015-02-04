@@ -1,6 +1,7 @@
 /* CSS declarations go here */
 body{
     background-image: url('img/background.jpg');
+
 }
 
 header{
@@ -21,49 +22,40 @@ header label{
 }
 #scc{
     position: fixed;
-    left: 0px;
+    left: 50%;
     top: 50%;
-    width: 50%;
-}
-#scc img{
-    width: 100%;
-    margin-top: -20%;
-}
-#news{
-    position: fixed;
-    width: 30%;
-    left: 6%;
-    top: 0;
-}
-.icon img{
-    width: 100%;
-}
-#programs{
-    position: fixed;
-    width: 45%;
-    right: 0px;
-    top: 50%;
+    width: 0;
 }
 
-#programs .icon{
-    width: 100%;
-    margin-top: -45%;
+#news{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 0;
 }
+
+#programs{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 0;
+}
+
 #residency{
     position: fixed;
-    width: 30%;
-    bottom: 0px;
-    left: 7%;
+    left: 50%;
+    top: 50%;
+    width: 0;
 }
 #about{
     position: fixed;
-    width: 20%;
-    bottom: 0px;
-    left: 40%;
+    left: 50%;
+    top: 50%;
+    width: 0;
 }
 #contacts{
     position: fixed;
-    width: 13%;
-    top: 0px;
-    left: 55%;
+    left: 50%;
+    top: 50%;
+    width: 0;
 }
