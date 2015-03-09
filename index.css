@@ -1,11 +1,15 @@
 /* CSS declarations go here */
 body{
-    background-image: url('img/background.jpg');
+    background: url('img/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 header{
     position: fixed;
-    right: 17%;
+    right: 18%;
     top: 0;
     width: 7%;
 }
@@ -21,49 +25,15 @@ header label{
 }
 #scc{
     position: fixed;
-    left: 0px;
+    width: 0;
+    height: 0;
     top: 50%;
-    width: 50%;
+    left: 50%;
 }
-#scc img{
-    width: 100%;
-    margin-top: -20%;
-}
-#news{
+section{
     position: fixed;
-    width: 30%;
-    left: 6%;
-    top: 0;
-}
-.icon img{
-    width: 100%;
-}
-#programs{
-    position: fixed;
-    width: 45%;
-    right: 0px;
+    width: 0;
+    height: 0;
     top: 50%;
-}
-
-#programs .icon{
-    width: 100%;
-    margin-top: -45%;
-}
-#residency{
-    position: fixed;
-    width: 30%;
-    bottom: 0px;
-    left: 7%;
-}
-#about{
-    position: fixed;
-    width: 20%;
-    bottom: 0px;
-    left: 40%;
-}
-#contacts{
-    position: fixed;
-    width: 13%;
-    top: 0px;
-    left: 55%;
+    left: 50%;
 }
